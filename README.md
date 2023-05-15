@@ -2,11 +2,10 @@
 
 The idea of Health & Fitness UI is to create a compelling and attractive user experience for a health and fitness based application where the user can set their fitness goals, track on a daily basis and also see their progress towards a healthier lifestyle.
 
-Health &; Fitness UI is built using HCL's Volt MX Iris and Foundry (to publish a web preview) completely using the existing library default components and a custom HTML component to provide animations in the user interface. All screenshots for the app are provided below and the pitch video is a walk through of how the app looks and was built using Volt MX.
+Health & Fitness UI is built using HCL's Volt MX Iris and Foundry (to publish a web preview) completely using the existing library default components and a custom HTML component to provide animations in the user interface. All screenshots for the app are provided below and the pitch video is a walk through of how the app looks and was built using Volt MX.
 
 Application Name: HealthFitnessUI
-Application URL:
-https://m100001687001.demo-hclvoltmx.net/apps/HealthFitnessUI
+Application URL: https://m100001687001.demo-hclvoltmx.net/apps/HealthFitnessUI
 Environment Name: M100001687001
 
 App Viewer Code: Q65NR
