@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "107dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdcce2b8a560486f99e1128f026c0101",
+    "_src_": "steps.png",
+    "_top_": {
+        "type": "string",
+        "value": "37dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "48.37%"
+    },
+    "containerweight": 100,
+    "id": "metric4Icon",
+    "imagescalemode": 1,
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "cda0bcaedd0f49c2aff0c9c4ce03698d",
+    "name": "kony.ui.Image2",
+    "parent": "metricsContainer4",
+    "pf": "hello",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

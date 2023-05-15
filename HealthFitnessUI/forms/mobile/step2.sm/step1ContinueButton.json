@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s612b6ed3c274093bde4a2f0634f89f0",
+    "_text_": "Allow",
+    "_top_": {
+        "type": "string",
+        "value": "700dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.03%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s0b3dd7a70f946beb23b2724e23da200",
+    "id": "step1ContinueButton",
+    "ide_onClick": "AS_Button_d5d7dac3c78c4d4a9cb0ec3dfbd3e792",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e18eefc9e4794c2eb396ead7d9355260",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "step2",
+    "pf": "step2",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

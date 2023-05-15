@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "127dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "177dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd666cdc13444e6095ed224ae34546ed",
+    "_text_": "To give you a customized experience, we need to know your gender.",
+    "_top_": {
+        "type": "string",
+        "value": "437dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "94.40%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "49.98%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "step1Instructions",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f640e5b5c5d746ad8736625a5457a909",
+    "linkskin": "s2f8b83d42cb4a9ab2ad51b2e2575906",
+    "name": "kony.ui.RichText",
+    "parent": "step1",
+    "pf": "step1",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

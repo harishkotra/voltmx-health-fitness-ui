@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "57dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "107dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s51c7c4955bb4226a273ec96541ddfd5",
+    "_text_": "I am a pro!",
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "67.80%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "CopyRichText0cbf9972775144a",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "h81a6df3a51c418084d97ada39868d77",
+    "linkskin": "s2f8b83d42cb4a9ab2ad51b2e2575906",
+    "name": "kony.ui.RichText",
+    "parent": "fitnessLevel3",
+    "pf": "step3",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

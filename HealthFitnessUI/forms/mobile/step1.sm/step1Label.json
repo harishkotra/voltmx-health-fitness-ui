@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "53dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "161dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s85bfba1b83c4529a1a0039500f76037",
+    "_text_": "step 1/5",
+    "_top_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "step1Label",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d75f5c57ad1343b8a60ef937bf4a658d",
+    "linkskin": "s2f8b83d42cb4a9ab2ad51b2e2575906",
+    "name": "kony.ui.RichText",
+    "parent": "step1",
+    "pf": "step1",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

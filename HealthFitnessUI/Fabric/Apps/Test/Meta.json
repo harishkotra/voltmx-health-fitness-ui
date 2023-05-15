@@ -1,0 +1,11 @@
+{
+  "subType" : "customapp",
+  "description" : "This app is created from Studio App Test.\r\n",
+  "version" : "1.0",
+  "intSvcs" : [ {
+    "name" : "OpenAI_ChatCompletionAPI",
+    "version" : "1.0",
+    "etag" : "1aaf55e8-34a1-45a7-a2ac-6c0dfce2299e"
+  } ],
+  "identitySvcConf" : "{\"session_idle_timeout_mins\":20,\"session_max_duration_mins\":360,\"show_security_attributes\":false,\"is_integrity_enabled\":false,\"auto_extend\":true}"
+}

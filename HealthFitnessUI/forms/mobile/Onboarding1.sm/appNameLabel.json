@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "87dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "159dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2b4e88cac5c430bb2a3ebeb01c64662",
+    "_text_": "Welcome to <br />\n<span style=\"color:#7164e2;font-weight:bold;\">Health & Fitness App</span>",
+    "_top_": {
+        "type": "string",
+        "value": "243dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "appNameLabel",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "cee4c10d6dc04f7b9d8e18c1d0e2c817",
+    "linkskin": "s2f8b83d42cb4a9ab2ad51b2e2575906",
+    "name": "kony.ui.RichText",
+    "parent": "FlexContainer0ce7afc47528740",
+    "pf": "Onboarding1",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

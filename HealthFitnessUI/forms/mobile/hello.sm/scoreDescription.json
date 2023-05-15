@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "75dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "86dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf8ebd005ecb4c78adc99042c0f8774e",
+    "_text_": "Based on your overall health test, your score is 85 and is considered good...",
+    "_top_": {
+        "type": "string",
+        "value": "43dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "70.86%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "id": "scoreDescription",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ea7946f9179344a19363b2ac25f506b3",
+    "linkskin": "s2f8b83d42cb4a9ab2ad51b2e2575906",
+    "name": "kony.ui.RichText",
+    "parent": "healthScoreContainer",
+    "pf": "hello",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

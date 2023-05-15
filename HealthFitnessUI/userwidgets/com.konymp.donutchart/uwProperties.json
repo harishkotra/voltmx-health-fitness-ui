@@ -1,0 +1,272 @@
+{
+    "classname": "donutchart",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "e69dc3bbe3c54b669bf45cd27a6f34c4",
+                    "paramList": [
+                        {
+                            "name": "dataSet"
+                        }
+                    ],
+                    "propertyKey": "createChart",
+                    "pw": {
+                        "displayName": "createChart",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "ua1641dbd8944ab09d36aab57bf23159",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [
+                "Title",
+                "Legend"
+            ],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [
+                {
+                    "access": "Write",
+                    "defaultValue": true,
+                    "group": "Legend",
+                    "kuid": "f34673cacebf4eb295c31b0db8b4a0ec",
+                    "originalPropertyKey": "enableLegend",
+                    "propertyIndex": 1,
+                    "propertyKey": "enableLegend",
+                    "pw": {
+                        "displayName": "Enable Legends",
+                        "uiRepresentation": "Label-Radiobuttongroup"
+                    },
+                    "srcWgtKUID": "ua1641dbd8944ab09d36aab57bf23159",
+                    "type": "boolean",
+                    "value": "true/false"
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "#ffffff",
+                    "group": "General",
+                    "kuid": "f03a20cd7dcf44c28c580dc4341639aa",
+                    "originalPropertyKey": "bgColor",
+                    "propertyIndex": 1,
+                    "propertyKey": "bgColor",
+                    "pw": {
+                        "displayName": "Background Color",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "ua1641dbd8944ab09d36aab57bf23159",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": {
+                        "data": [
+                            {
+                                "colorCode": "#1B9ED9",
+                                "label": "Data1",
+                                "value": "40"
+                            },
+                            {
+                                "colorCode": "#E8672B",
+                                "label": "Data2",
+                                "value": "20"
+                            },
+                            {
+                                "colorCode": "#76C044",
+                                "label": "Data3",
+                                "value": "20"
+                            },
+                            {
+                                "colorCode": "#FFC522",
+                                "label": "Data4",
+                                "value": "10"
+                            },
+                            {
+                                "colorCode": "#97CDED",
+                                "label": "Data5",
+                                "value": "10"
+                            }
+                        ],
+                        "schema": [
+                            {
+                                "columnHeaderTemplate": null,
+                                "columnHeaderText": "Label",
+                                "columnHeaderType": "text",
+                                "columnID": "label",
+                                "columnOnClick": null,
+                                "columnText": "Not Defined",
+                                "columnType": "text",
+                                "kuid": "c8434b6cbed443e6a6167d99e8c3bdcb"
+                            },
+                            {
+                                "columnHeaderTemplate": null,
+                                "columnHeaderText": "Value",
+                                "columnHeaderType": "text",
+                                "columnID": "value",
+                                "columnOnClick": null,
+                                "columnText": "Not Defined",
+                                "columnType": "text",
+                                "kuid": "cddb65c1fe8c429bb5a4b5f93bd171ef"
+                            },
+                            {
+                                "columnHeaderTemplate": null,
+                                "columnHeaderText": "Color Code",
+                                "columnHeaderType": "text",
+                                "columnID": "colorCode",
+                                "columnOnClick": null,
+                                "columnText": "Not Defined",
+                                "columnType": "text",
+                                "kuid": "f722303b71a8439eae528d9af9856f30"
+                            }
+                        ]
+                    },
+                    "group": "General",
+                    "kuid": "b6d0fcb9765b47269bffcd1d5981f60e",
+                    "originalPropertyKey": "chartData",
+                    "propertyIndex": 1,
+                    "propertyKey": "chartData",
+                    "pw": {
+                        "displayName": "Chart Data",
+                        "uiRepresentation": "Label-DataGrid"
+                    },
+                    "srcWgtKUID": "ua1641dbd8944ab09d36aab57bf23159",
+                    "type": "data grid",
+                    "value": 3
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "12",
+                    "group": "Title",
+                    "kuid": "b96c37c3c8c244aca220620edaa0f92e",
+                    "originalPropertyKey": "titleFontSize",
+                    "propertyIndex": 1,
+                    "propertyKey": "titleFontSize",
+                    "pw": {
+                        "displayName": "Title Font Size",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "ua1641dbd8944ab09d36aab57bf23159",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": true,
+                    "group": "General",
+                    "kuid": "j80639e454f849329d9fb816f67f92c5",
+                    "originalPropertyKey": "enableChartAnimation",
+                    "propertyIndex": 1,
+                    "propertyKey": "enableChartAnimation",
+                    "pw": {
+                        "displayName": "Enable Chart Animation",
+                        "uiRepresentation": "Label-Radiobuttongroup"
+                    },
+                    "srcWgtKUID": "ua1641dbd8944ab09d36aab57bf23159",
+                    "type": "boolean",
+                    "value": "true/false"
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "Donut Chart",
+                    "group": "Title",
+                    "kuid": "e4aff0f0bc364b1698ff42872e295712",
+                    "originalPropertyKey": "chartTitle",
+                    "propertyIndex": 2,
+                    "propertyKey": "chartTitle",
+                    "pw": {
+                        "displayName": "Chart Title",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "ua1641dbd8944ab09d36aab57bf23159",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "8",
+                    "group": "Legend",
+                    "kuid": "a31e249b0b764c438b2cd0631814ce44",
+                    "originalPropertyKey": "legendFontSize",
+                    "propertyIndex": 2,
+                    "propertyKey": "legendFontSize",
+                    "pw": {
+                        "displayName": "Legend Font Size",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "ua1641dbd8944ab09d36aab57bf23159",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": true,
+                    "group": "General",
+                    "kuid": "fe1dc49e158641d78df35f6878597f9a",
+                    "originalPropertyKey": "enableStaticPreview",
+                    "propertyIndex": 2,
+                    "propertyKey": "enableStaticPreview",
+                    "pw": {
+                        "displayName": "Enable Static Preview",
+                        "uiRepresentation": "Label-Radiobuttongroup"
+                    },
+                    "srcWgtKUID": "ua1641dbd8944ab09d36aab57bf23159",
+                    "type": "boolean",
+                    "value": "true/false"
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "#000000",
+                    "group": "Title",
+                    "kuid": "c9efac2b94e54303972422e13a33d59f",
+                    "originalPropertyKey": "titleFontColor",
+                    "propertyIndex": 3,
+                    "propertyKey": "titleFontColor",
+                    "pw": {
+                        "displayName": "Title Font Color",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "ua1641dbd8944ab09d36aab57bf23159",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "#000000",
+                    "group": "Legend",
+                    "kuid": "fc720e6c7c01445cb480d3dd646d01ce",
+                    "originalPropertyKey": "legendFontColor",
+                    "propertyIndex": 3,
+                    "propertyKey": "legendFontColor",
+                    "pw": {
+                        "displayName": "Legend Font Color",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "ua1641dbd8944ab09d36aab57bf23159",
+                    "type": "string",
+                    "value": ""
+                }
+            ],
+            "passthrough": []
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.konymp",
+    "version": "1.0.0"
+}

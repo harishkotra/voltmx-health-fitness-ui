@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "77dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "7dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s384089ff30148e181c17b9b66d23cee",
+    "_text_": "Already have an account? <span style=\"color:#7164e2\">Sign in</span>",
+    "_top_": {
+        "type": "string",
+        "value": "735dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "accountExistsLabel",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a2e728e0fa684be58e1f55b63274287a",
+    "linkskin": "s2f8b83d42cb4a9ab2ad51b2e2575906",
+    "name": "kony.ui.RichText",
+    "parent": "FlexContainer0ce7afc47528740",
+    "pf": "Onboarding1",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

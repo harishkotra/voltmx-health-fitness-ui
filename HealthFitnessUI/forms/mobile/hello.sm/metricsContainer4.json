@@ -1,0 +1,63 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "217dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "200dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sab2b141f9ef4cc089a3d3046c38a4df",
+    "_top_": {
+        "type": "string",
+        "value": "599dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "42.94%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "metric4LastUpdatedOn",
+        "metric4Title",
+        "metric4Value",
+        "metric4Icon"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "metricsContainer4",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a71ff41281bc4f2f973b4886a260d882",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "hello",
+    "pf": "hello",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

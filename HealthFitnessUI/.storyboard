@@ -1,0 +1,175 @@
+{
+    "models": {
+        "mobile": {
+            "class": "GraphLinksModel",
+            "linkDataArray": [
+                {
+                    "actionId": "NAVIGATE_TO_FORM__ee6ba1e3dc114899b5d6f3807c23e718",
+                    "actionSequenceId": "AS_Button_fb22e09313c94ecc83f8e1895e930c06",
+                    "beautifiedPath": "Onboarding1 > getStartedButton > onClick",
+                    "evt": "ide_onClick",
+                    "from": "eac66d4e14a24f18b472e70c5953d688",
+                    "isPSP": false,
+                    "points": [
+                        183.2,
+                        194.445263671875,
+                        193.2,
+                        194.445263671875,
+                        196,
+                        194.445263671875,
+                        196,
+                        250.97859700520831,
+                        281.2,
+                        250.97859700520831,
+                        299.2,
+                        250.97859700520831
+                    ],
+                    "to": "j27f4b2d74714ba19a8c89cf532932e1",
+                    "widgetKUID": "a4f1f9298a684caaafc52bb84542f0c3"
+                },
+                {
+                    "actionId": "NAVIGATE_TO_FORM__ec4ea35ab1fa4986ae61ecc533a1178d",
+                    "actionSequenceId": "AS_Button_e2129b87bb3345b4bf0107b4db1e521b",
+                    "beautifiedPath": "step1 > step1ContinueButton > onClick",
+                    "evt": "ide_onClick",
+                    "from": "j27f4b2d74714ba19a8c89cf532932e1",
+                    "isPSP": false,
+                    "points": [
+                        474.4,
+                        194.445263671875,
+                        484.4,
+                        194.445263671875,
+                        523.2,
+                        194.445263671875,
+                        523.2,
+                        194.445263671875,
+                        562,
+                        194.445263671875,
+                        572,
+                        194.445263671875
+                    ],
+                    "to": "ibf08997d5204b1a93a6710be37af3af",
+                    "widgetKUID": "bd7e9558ca7846f6a5ab238f5e36800f"
+                },
+                {
+                    "actionId": "NAVIGATE_TO_FORM__ide_onClick_jb35c9d8a93141699498cd508a2886ed",
+                    "actionSequenceId": "AS_Button_f0977afc01ec41a6b82ce1fb2107c156",
+                    "beautifiedPath": "step3 > step3ContinueButton > onClick",
+                    "evt": "ide_onClick",
+                    "from": "fafee95636894a3eb143d7d4c73924ea",
+                    "isPSP": false,
+                    "points": [
+                        418,
+                        634.445263671875,
+                        408,
+                        634.445263671875,
+                        408,
+                        634.445263671875,
+                        408,
+                        794.4452636718751,
+                        193.2,
+                        794.4452636718751,
+                        183.2,
+                        794.4452636718751
+                    ],
+                    "to": "i1d26e6542fb4015a2e5471b4a1093a2",
+                    "widgetKUID": "ga962c7e09764f3395d767369a8965e5"
+                },
+                {
+                    "actionId": "NAVIGATE_TO_FORM__ide_onClick_c542ca4d314a499da8d1dd8a66490b33",
+                    "actionSequenceId": "AS_Button_i9be97b96dfa4718822c2a064c20d7ec",
+                    "beautifiedPath": "step4 > step4ContinueButton > onClick",
+                    "evt": "ide_onClick",
+                    "from": "i1d26e6542fb4015a2e5471b4a1093a2",
+                    "isPSP": false,
+                    "points": [
+                        95.6,
+                        964.0452636718751,
+                        95.6,
+                        974.0452636718751,
+                        95.6,
+                        974.0452636718751,
+                        95.6,
+                        974.0452636718751,
+                        95.6,
+                        1214.845263671875,
+                        95.6,
+                        1224.845263671875
+                    ],
+                    "to": "hc8b539c11504d609d5fb9b1eaae2001",
+                    "widgetKUID": "ac31bb251c284f808d11d58f76a85aee"
+                },
+                {
+                    "actionId": null,
+                    "from": "eac66d4e14a24f18b472e70c5953d688",
+                    "points": [
+                        182.2,
+                        194.445263671875,
+                        192.2,
+                        194.445263671875,
+                        192.2,
+                        194.445263671875,
+                        192.2,
+                        194.445263671875,
+                        289.2,
+                        194.445263671875,
+                        299.2,
+                        194.445263671875
+                    ],
+                    "softLink": true,
+                    "to": "j27f4b2d74714ba19a8c89cf532932e1"
+                }
+            ],
+            "nodeDataArray": [
+                {
+                    "formKUID": "eac66d4e14a24f18b472e70c5953d688",
+                    "formName": "Onboarding1",
+                    "isStartupForm": true,
+                    "key": "eac66d4e14a24f18b472e70c5953d688",
+                    "loc": "8 24.845263671875003",
+                    "thumbnailURL": "/assets/HealthFitnessUI/forms/mobile/Onboarding1.sm/.thumbs/default.jpeg"
+                },
+                {
+                    "formKUID": "j27f4b2d74714ba19a8c89cf532932e1",
+                    "formName": "step1",
+                    "isStartupForm": false,
+                    "key": "j27f4b2d74714ba19a8c89cf532932e1",
+                    "loc": "299.2 24.845263671875003",
+                    "thumbnailURL": "/assets/HealthFitnessUI/forms/mobile/step1.sm/.thumbs/default.jpeg"
+                },
+                {
+                    "formKUID": "ibf08997d5204b1a93a6710be37af3af",
+                    "formName": "step2",
+                    "isStartupForm": false,
+                    "key": "ibf08997d5204b1a93a6710be37af3af",
+                    "loc": "572 24.845263671875017",
+                    "thumbnailURL": null
+                },
+                {
+                    "formKUID": "fafee95636894a3eb143d7d4c73924ea",
+                    "formName": "step3",
+                    "isStartupForm": false,
+                    "key": "fafee95636894a3eb143d7d4c73924ea",
+                    "loc": "418 464.845263671875",
+                    "thumbnailURL": null
+                },
+                {
+                    "formKUID": "i1d26e6542fb4015a2e5471b4a1093a2",
+                    "formName": "step4",
+                    "isStartupForm": false,
+                    "key": "i1d26e6542fb4015a2e5471b4a1093a2",
+                    "loc": "8 624.845263671875",
+                    "thumbnailURL": null
+                },
+                {
+                    "formKUID": "hc8b539c11504d609d5fb9b1eaae2001",
+                    "formName": "step5",
+                    "isStartupForm": false,
+                    "key": "hc8b539c11504d609d5fb9b1eaae2001",
+                    "loc": "8 1224.845263671875",
+                    "thumbnailURL": null
+                }
+            ]
+        }
+    }
+}

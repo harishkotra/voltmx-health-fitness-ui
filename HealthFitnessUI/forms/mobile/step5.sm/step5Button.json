@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "57dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s701e80ee7984165beb7f7c8d6de629f",
+    "_text_": "Let's Go!",
+    "_top_": {
+        "type": "string",
+        "value": "755dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s0b3dd7a70f946beb23b2724e23da200",
+    "id": "step5Button",
+    "ide_onClick": "AS_Button_b0823ae7f45c43a8bef02fad0a539a0c",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c883d366987a44b79f72c298738c6776",
+    "name": "kony.ui.Button",
+    "parent": "step5",
+    "pf": "step5",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

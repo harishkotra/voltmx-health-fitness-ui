@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "46dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "26dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s920657c0bf54822aa512284902278ae",
+    "_text_": "85",
+    "_top_": {
+        "type": "string",
+        "value": "17dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "9.89%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "scoreCount",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "db042797f2c34567b2151c4af5f013d4",
+    "linkskin": "s2f8b83d42cb4a9ab2ad51b2e2575906",
+    "name": "kony.ui.RichText",
+    "parent": "healthScoreContainer",
+    "pf": "hello",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

@@ -1,0 +1,35 @@
+{
+    "AS_FlexContainer_h0b4d74f727440cf9b66230986bb85b2": {
+        "id": "AS_FlexContainer_h0b4d74f727440cf9b66230986bb85b2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "hello",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a07ce63ea3f643958ec5970dd68d3819"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__c8315fc67a57421ca955066bc16e4246",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "waterTracker",
+            "formKUID": "i50a7051634641d8badd7a7ec533bb48",
+            "projectName": "HealthFitnessUI",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

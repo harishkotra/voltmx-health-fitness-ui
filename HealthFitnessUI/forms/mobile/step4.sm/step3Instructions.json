@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "63dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "177dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd666cdc13444e6095ed224ae34546ed",
+    "_text_": "You always can change this later",
+    "_top_": {
+        "type": "string",
+        "value": "187dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "49.95%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "step3Instructions",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "cdef540b90ea454299e310e0a8dd00a4",
+    "linkskin": "s2f8b83d42cb4a9ab2ad51b2e2575906",
+    "name": "kony.ui.RichText",
+    "parent": "step4",
+    "pf": "step4",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

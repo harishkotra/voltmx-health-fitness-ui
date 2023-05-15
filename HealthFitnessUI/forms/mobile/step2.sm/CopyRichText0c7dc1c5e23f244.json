@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "36dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "99dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s33d2c24e54643bd842ee1f9b28311bb",
+    "_text_": "Motivational reminders",
+    "_top_": {
+        "type": "string",
+        "value": "585dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "70.87%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "CopyRichText0c7dc1c5e23f244",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ae7cf627cb054a258a886407f28478bc",
+    "linkskin": "s2f8b83d42cb4a9ab2ad51b2e2575906",
+    "name": "kony.ui.RichText",
+    "parent": "step2",
+    "pf": "step2",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

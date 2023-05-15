@@ -1,0 +1,29 @@
+{
+    "AS_Button_f0977afc01ec41a6b82ce1fb2107c156": {
+        "id": "AS_Button_f0977afc01ec41a6b82ce1fb2107c156",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "step3",
+            "type": "forms",
+            "platform": null,
+            "KUID": "fafee95636894a3eb143d7d4c73924ea"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_jb35c9d8a93141699498cd508a2886ed",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "step4",
+            "formKUID": "i1d26e6542fb4015a2e5471b4a1093a2",
+            "projectName": "HealthFitnessUI",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

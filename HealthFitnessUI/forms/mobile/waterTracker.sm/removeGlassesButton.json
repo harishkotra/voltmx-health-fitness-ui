@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "43dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "90dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2ca75ebdec542a98224bbe917632118",
+    "_text_": "-",
+    "_top_": {
+        "type": "string",
+        "value": "599dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "48dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s0b3dd7a70f946beb23b2724e23da200",
+    "id": "removeGlassesButton",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c510603b758c4c25be7de373c6629a6d",
+    "name": "kony.ui.Button",
+    "parent": "waterTracker",
+    "pf": "waterTracker",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 2
+}

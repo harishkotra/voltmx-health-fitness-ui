@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "147dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "146dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb168806c3cc4390a5b0b173bbcda7f6",
+    "_text_": "Thank you for taking your time to create an account with us. Now this is the fun part, let's explore the app!",
+    "_top_": {
+        "type": "string",
+        "value": "577dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "88.79%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "step5Instructions",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d51814506abe4c0abaa45e875d2f5456",
+    "linkskin": "s2f8b83d42cb4a9ab2ad51b2e2575906",
+    "name": "kony.ui.RichText",
+    "parent": "step5",
+    "pf": "step5",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

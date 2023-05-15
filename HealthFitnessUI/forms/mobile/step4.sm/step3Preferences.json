@@ -1,0 +1,89 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCheckBox",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "267dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "8dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s1949c8d922c47a6982e9c5723e62ec2",
+    "_top_": {
+        "type": "string",
+        "value": "293dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "id": "step3Preferences",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 4
+        }
+    },
+    "iphone": {
+        "psp": {
+            "viewType": 3
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "itemorientation": "vertical",
+    "kuid": "h0d05e2331344f3aab0e85f97aaa6008",
+    "masterdata": [
+        [
+            "cbg1",
+            "🍉 Weight loss"
+        ],
+        [
+            "cbg2",
+            "🛏️ Better sleeping"
+        ],
+        [
+            "cbg3",
+            "🥑 Track my nutrition"
+        ],
+        [
+            "cbg4",
+            "💪🏻 Improve overall fitness"
+        ]
+    ],
+    "name": "kony.ui.CheckBoxGroup",
+    "orientation": "vertical",
+    "parent": "step4",
+    "pf": "step4",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": null,
+    "selectedkeys": [],
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "tickedimage": "acme.png",
+    "viewtype": 0,
+    "wType": "CheckBoxGroup",
+    "widgetalignment": 5,
+    "zindex": 1
+}

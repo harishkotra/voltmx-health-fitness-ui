@@ -1,0 +1,29 @@
+{
+    "AS_Button_fb22e09313c94ecc83f8e1895e930c06": {
+        "id": "AS_Button_fb22e09313c94ecc83f8e1895e930c06",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Onboarding1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "eac66d4e14a24f18b472e70c5953d688"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ee6ba1e3dc114899b5d6f3807c23e718",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "step1",
+            "formKUID": "j27f4b2d74714ba19a8c89cf532932e1",
+            "projectName": "HealthFitnessUI",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}
